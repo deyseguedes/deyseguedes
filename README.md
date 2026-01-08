@@ -1,7 +1,6 @@
-## Olá 👋
+## oie 👋
 
-Desenvolvedor web focado em Laravel, PHP, JavaScript, HTML e CSS, criando soluções robustas e intuitivas. Sempre buscando expandir meu conhecimento, atualmente explorando Python e Java.
-
+Desenvolvedora Web e professora de programação, com foco em PHP e desenvolvimento de sistemas web. Experiência com CRUD, formulários, autenticação, sessões e MySQL, além de versionamento com Git e GitHub. Conhecimentos em frameworks, consumo de APIs REST e integração de gateways de pagamento em projetos de estudo. Vivência em ensino de lógica de programação, com forte organização de código e comunicação técnica.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
